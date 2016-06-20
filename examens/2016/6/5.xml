@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<examen code="5">
+    <sujet>Programmation système</sujet>
+    <date>2016-06-16T00:00:00Z</date>
+    <questions code="0" note="2.0">
+        <question>A quoi sert mkdir ?</question>
+        <reponse>Création d'un fichier</reponse>
+        <reponse>Création d'un répertoire</reponse>
+        <reponse>Création d'un fichier media</reponse>
+        <vraiReponse>Création d'un répertoire</vraiReponse>
+    </questions>
+    <questions code="1" note="2.0">
+        <question>Qu'il est l'interet de execvp ?</question>
+        <reponse>Execution d'une commande</reponse>
+        <reponse>Execution d'une commande en utilisant variable d'env</reponse>
+        <reponse>Quitter terminal</reponse>
+        <vraiReponse>Execution d'une commande en utilisant variable d'env</vraiReponse>
+    </questions>
+    <questions code="2" note="2.0">
+        <question>System() ?</question>
+        <reponse>Excute un cmd</reponse>
+        <reponse>annule une cmd</reponse>
+        <reponse>aucune idéé</reponse>
+        <vraiReponse>Excute un cmd</vraiReponse>
+    </questions>
+    <duree>0</duree>
+</examen>

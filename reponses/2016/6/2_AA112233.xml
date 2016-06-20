@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<candidature>
+    <reponses>
+        <entry>
+            <key>0</key>
+            <value>non</value>
+        </entry>
+        <entry>
+            <key>1</key>
+            <value>Isntance en memoire physique</value>
+        </entry>
+        <entry>
+            <key>2</key>
+            <value>donneés et controles</value>
+        </entry>
+    </reponses>
+    <Validation>true</Validation>
+    <examen code="2">
+        <sujet>ORACLE TEST</sujet>
+        <date>2016-06-08T00:00:00Z</date>
+        <questions code="0" note="2.0">
+            <question>Est que oracle est un SGBD ?</question>
+            <reponse>oui</reponse>
+            <reponse>non</reponse>
+            <reponse>autre réponse</reponse>
+            <vraiReponse>oui</vraiReponse>
+        </questions>
+        <questions code="1" note="2.0">
+            <question>C'est quoi une SGA dans Oralce ?</question>
+            <reponse>Instance en memoire virtuel</reponse>
+            <reponse>Isntance en memoire physique</reponse>
+            <reponse>Aucune idéé</reponse>
+            <vraiReponse>Instance en memoire virtuel</vraiReponse>
+        </questions>
+        <questions code="2" note="2.0">
+            <question>Quels sont les types des fichiers Oracle ?</question>
+            <reponse>données ,controles et archives</reponse>
+            <reponse>donneés et controles</reponse>
+            <reponse>archives et controles</reponse>
+            <vraiReponse>données ,controles et archives</vraiReponse>
+        </questions>
+        <duree>0</duree>
+    </examen>
+    <utilisateur>
+        <cin>AA112233</cin>
+    </utilisateur>
+</candidature>

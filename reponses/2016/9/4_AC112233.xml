@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<candidature>
+    <reponses/>
+    <validation>false</validation>
+    <examen code="4">
+        <sujet>RESEAUX TEST</sujet>
+        <date>2016-09-21T00:00:00+01:00</date>
+        <questions code="0" note="2.0">
+            <question>Qu'elle la difference entre OSI et TCP/IP ?</question>
+            <reponse>Le nombre des couches</reponse>
+            <reponse>Les protocoles</reponse>
+            <reponse>Aucune difference</reponse>
+            <vraiReponse>Le nombre des couches</vraiReponse>
+        </questions>
+        <questions code="1" note="2.0">
+            <question>Qu'elle la difference entre TCP et UDP ?</question>
+            <reponse>La securité</reponse>
+            <reponse>La fiabilité</reponse>
+            <reponse>L'echange des données</reponse>
+            <vraiReponse>La fiabilité</vraiReponse>
+        </questions>
+        <questions code="2" note="2.0">
+            <question>La forme d'adresse MAC ?</question>
+            <reponse>AA:BB:CC:DD</reponse>
+            <reponse>AA:BB:CC:DD:FF</reponse>
+            <reponse>AA:BB:CC:DD:FF:EE</reponse>
+            <vraiReponse>AA:BB:CC:DD:FF:EE</vraiReponse>
+        </questions>
+        <duree>0</duree>
+    </examen>
+    <utilisateur>
+        <cin>AC112233</cin>
+    </utilisateur>
+</candidature>

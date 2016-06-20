@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<candidature>
+    <reponses>
+        <entry>
+            <key>0</key>
+            <value>JAVA VIRTUAL MACHINE</value>
+        </entry>
+        <entry>
+            <key>1</key>
+            <value>Gestion de la memoire vive</value>
+        </entry>
+        <entry>
+            <key>2</key>
+            <value>non</value>
+        </entry>
+    </reponses>
+    <Validation>true</Validation>
+    <examen code="1">
+        <sujet>JAVA TEST</sujet>
+        <date>2016-06-03T00:00:00+01:00</date>
+        <questions code="0" note="2.0">
+            <question>Quelle est la definition de JVM ?</question>
+            <reponse>JAVA VIRTUAL MACHINE</reponse>
+            <reponse>JAVA VARIATION MACHINE</reponse>
+            <reponse>JAVA VIRTUAL MEMORY</reponse>
+        </questions>
+        <questions code="1" note="2.0">
+            <question>Qu'est ce que ça veut dire Garbage Collector</question>
+            <reponse>Gestion de la memoire bios</reponse>
+            <reponse>Gestion de la memoire vive</reponse>
+            <reponse>Gestion de la memoire physique</reponse>
+        </questions>
+        <questions code="2" note="2.0">
+            <question>Est qu'on peut programmer en java sans POO ?</question>
+            <reponse>oui</reponse>
+            <reponse>non</reponse>
+            <reponse>autre réponse</reponse>
+        </questions>
+        <duree>0</duree>
+    </examen>
+    <utilisateur>
+        <cin>AA112233</cin>
+    </utilisateur>
+</candidature>
